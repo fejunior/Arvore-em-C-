@@ -7,5 +7,8 @@ Projeto desenvolvido com base no conteúdo já ministrado em sala de aula.
     - Node - Que representa cada nó;
     - Tree - Estrutura principal da árvore.
 * Métodos: 
-    - insertNode( insserir uma folha na árvore)
-    - printPreOrder(imprime os nós da árvore começando da raiz no sentido da esquerda para direita)
+    - insertNode( insserir uma folha na árvore).
+    - printPreOrder(Imprime usando a pre-ordem).
+    - printInOrder(Imprime usando a ordem).
+    - printPosOrder(Imprime usando a pós-ordem).
+    - countNode(retorna a quantidade de nós que a árvore possui.   
